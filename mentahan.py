@@ -79,17 +79,17 @@ vuln = "\033[32mVuln"
 os.system("clear")
 print """\033[1;97m=====================================================>\033[1;91mTools Ini Dibuat Hanya Untuk Edukasi Dan Keperluan Penting
 \033[1;97m=====================================================>============>
-\033[1;91m [¤]   _____         _   _  _____ ____          ______ 
-\033[1;91m [¤]  / ____|  /\   | \ | |/ ____|  _ \   /\   |  ____|
-\033[1;91m [¤] | (___   /  \  |  \| | (___ | |_) | /  \  | |__   
-\033[1;91m [¤]  \___ \ / /\ \ | . ` |\___ \|  _ < / /\ \ |  __|  
-\033[1;91m [¤]  ____) / ____ \| |\  |____) | |_) / ____ \| |____ 
-\033[1;91m [¤] |_____/_/    \_\_| \_|_____/|____/_/    \_\______|"""
+\033[1;91m [¤]  REVOLUTION TEAM REVOLUTION TEAM REVOLUTION TEAM
+\033[1;91m [¤]  REVOLUTION TEAM REVOLUTION TEAM REVOLUTION TEAM
+\033[1;91m [¤]  REVOLUTION TEAM REVOLUTION TEAM REVOLUTION TEAM
+\033[1;91m [¤]  REVOLUTION TEAM REVOLUTION TEAM REVOLUTION TEAM
+\033[1;91m [¤]  REVOLUTION TEAM REVOLUTION TEAM REVOLUTION TEAM
+\033[1;91m [¤]  REVOLUTION TEAM REVOLUTION TEAM REVOLUTION TEAM
 print "\x1b[1;97m=====================================================>●⚀◇-------------------------------------------------◇⚀●⚀●=========>"
 
 
-CorrectUsername = "ANBIA01"
-CorrectPassword = "AMANDA01"
+CorrectUsername = "REVOLUTION"
+CorrectPassword = "TEAM"
 
 loop = 'true'
 while (loop == 'true'):
